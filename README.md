@@ -77,4 +77,4 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/purgatory-b/purgatory-b/assets/github-contribution-grid-snake.svg" />
 </div>
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
