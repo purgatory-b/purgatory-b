@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purgatory-b&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purgatory-b&layout=compact&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purgatory-b&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purgatory-b&layout=compact&theme=vue-dark)
 
 
 ![](https://img.shields.io/badge/python-3.9-orange)
