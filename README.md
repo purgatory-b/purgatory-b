@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=05C079&center=true&vCenter=true&width=443&height=55&lines=Hey!+guy)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purgatory-b&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purgatory-b&layout=compact&theme=vue-dark)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
